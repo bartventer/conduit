@@ -1,8 +1,13 @@
 # conduit
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/bartventer/conduit.svg)](https://pkg.go.dev/github.com/bartventer/conduit)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bartventer/conduit)](https://goreportcard.com/report/github.com/bartventer/conduit)
+[![Test](https://github.com/bartventer/conduit/actions/workflows/default.yml/badge.svg)](https://github.com/bartventer/conduit/actions/workflows/default.yml)
+[![codecov](https://codecov.io/github/bartventer/conduit/graph/badge.svg?token=U3bMp1wrWA)](https://codecov.io/github/bartventer/conduit)
+
 **conduit** provides utilities for building composable, channel-based data streams and pipelines in Go.
 
-Inspired by patterns from "Concurrency in Go", by Katherine Cox-Buday, conduit offers generic combinators and helpers for constructing, transforming, and consuming streams of data. All functions are context-aware and designed to prevent goroutine leaks.
+Inspired by patterns from *Concurrency in Go*, by *Katherine Cox-Buday*, conduit offers generic combinators and helpers for constructing, transforming, and consuming streams of data. All functions are context-aware and designed to prevent goroutine leaks.
 
 ## Features
 
