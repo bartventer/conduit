@@ -15,6 +15,7 @@ Inspired by patterns from *Concurrency in Go*, by *Katherine Cox-Buday*, **condu
 - **Transform/filter:** `Map`, `Skip`, `SkipN`, `Take`, `First`
 - **Combine/split:** `FanIn`, `FanOut`, `Tee`, `Bridge`, `ChanChan`
 - **Safe consumption:** `OrDone`
+- **Zero dependencies:** Pure Go, no external packages required
 
 ## Example
 
