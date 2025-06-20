@@ -59,7 +59,7 @@ func main() {
 
 ## Documentation
 
-See [GoDoc](https://pkg.go.dev/github.com/yourname/conduit) for full API documentation and examples.
+See [GoDoc](https://pkg.go.dev/github.com/bartventer/conduit) for full API documentation and examples.
 
 ## Installation
 
