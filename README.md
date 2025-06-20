@@ -7,7 +7,7 @@
 
 **conduit** provides utilities for building composable, channel-based data streams and pipelines in Go.
 
-Inspired by patterns from *Concurrency in Go*, by *Katherine Cox-Buday*, conduit offers generic combinators and helpers for constructing, transforming, and consuming streams of data. All functions are context-aware and designed to prevent goroutine leaks.
+Inspired by patterns from *Concurrency in Go*, by *Katherine Cox-Buday*, **conduit** offers generic combinators and helpers for constructing, transforming, and consuming streams of data. All functions are context-aware and designed to prevent goroutine leaks.
 
 ## Features
 
